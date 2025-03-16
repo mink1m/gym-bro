@@ -1,0 +1,23 @@
+[
+    {
+        "name": "Leg extensions",
+        "type": "Machine",
+        "muscleGroups": ["quads"],
+        "imageName": "leg_extensions",
+        "description": "Perform leg extensions by sitting on a leg extension machine with your feet under the padded bar. Extend your legs until they are straight, engaging your quadriceps. Slowly return to the starting position to complete one repetition",
+        "baseParams": {
+            "bodyWeightRatio": {
+                "male": 0.25,
+                "female": 0.20
+            }
+        }
+    },
+    {
+        "name": "Bicep Curls",
+        "type": "Barbell",
+        "muscleGroups": ["Biceps"],
+        "imageName": "bicep_curls",
+        "description": "Stand with feet shoulder-width apart, holding a barbell with an underhand grip, arms extended down. Curl the barbell towards your shoulders, keeping elbows close to your body. Lower the barbell back down with control. ",
+        "bodyWeightRatio": 0.20
+    }
+]

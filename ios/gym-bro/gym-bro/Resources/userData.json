@@ -1,0 +1,11 @@
+{
+    "first_name": "John",
+    "last_name": "Doe",
+    "date_of_birth": "1990-05-15",
+    "sex": "Male",
+    "weight": 150,
+    "height": {
+      "feet": 5,
+      "inches": 10
+    }
+}
